@@ -1,0 +1,61 @@
+
+header{
+  background-image:url("../src/img/2340254fb07483122ff40273dfb2a410.jpeg");
+  background-position: center center;
+background-size: cover;
+}
+.container{
+  border-radius: 25px;
+   box-shadow: 4px 4px 4px 0px #00000040;
+   border: 1px solid rgba(255, 255, 255, 1)
+  ;
+}
+img{
+  width: 109px;
+height: 109px;
+border-radius: 50%;
+}
+
+.img-register{
+  border: 1px solid rgba(0, 0, 0, 1);
+  width: 109px;
+  height: 109px;
+  border-radius: 50%;
+}
+input{
+ border-radius: 25px !important;
+ background-color: rgba(245, 245, 245, 1)!important;
+}
+.btn-cancel{
+  background-color: rgba(217, 217, 217, 1) !important;
+}
+.btn-save{
+  background-color: rgba(27, 176, 240, 1)!important;
+}
+.edit_icon{
+  background-color:white;
+  width: 54px;
+  height: 45px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.edit_icon i{
+ color: rgba(27, 176, 240, 1);
+}
+.delete_icon{
+  width: 54px;
+  height: 45px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+.delete_icon i {
+  color: red;
+}
+.line{
+  border: 2px solid rgba(255, 255, 255, 1)
+}
